@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<car id="1">
+    <model>아이오닉6</model>
+    <color>화이트</color>
+    <year>2023</year>
+</car>
+<car id="2">
+    <model>소나타</model>
+    <color>BLACK</color>
+    <year>2020</year>
+</car>
+
+
